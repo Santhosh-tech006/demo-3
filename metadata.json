@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Academy",
+  "description": "Premium chess training academy with interactive 3D chessboard, courses, trial booking, tournaments, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
